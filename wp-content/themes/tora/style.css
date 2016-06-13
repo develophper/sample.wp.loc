@@ -1222,7 +1222,6 @@ img {
 ## Structure
 --------------------------------------------------------------*/
 .site-content {
-	display: none;
 	margin: 60px 0;
 }
 body.page-template-page_builder {
